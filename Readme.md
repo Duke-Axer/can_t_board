@@ -14,6 +14,7 @@
 - Wbudowana przetwornica AC/DC
 - Zasilanie z gniazda 230 VAC
 - Wbudowane napięcia wyjściowe: 5 V i 3.3 V
+
 **Wymiary PCB:** 10 × 10 cm  
 **Symulacje:** Przetwornica została zasymulowana w LTspice.  
 /projekt  

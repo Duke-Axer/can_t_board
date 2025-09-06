@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP B2B-PH-K-S_LF__SN_
+D Conn Shrouded Header HDR 2 POS 2mm Solder ST Thru-Hole Box
+K
+F https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B2B-PH-K-S-LF-SN_C131337.pdf
+$ENDCMP
+#
+$CMP TJA1051T_E,118
+D NXP - TJA1051T/E,118 - CAN Bus, CAN, Serial, 4.5 V, 5.5 V, SOIC
+K
+F http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf
+$ENDCMP
+#
+$CMP MCP2515-I_ST
+D CAN controller with SPI interface
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090060.pdf
+$ENDCMP
+#
+$CMP LD1117DT33CTR
+D Linear Voltage Regulator IC Positive Fixed 3.3V Output 800mA DPAK
+K
+F https://www.st.com/resource/en/datasheet/ld1117.pdf
+$ENDCMP
+#
+$CMP LM317T
+D Standard Regulator 1.2V to 37V 1.5A STMicroelectronics LM317T, Single Linear Voltage Regulator, 1.5A Adjustable 1.2  37 V, 3-Pin TO-220
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000455.pdf
+$ENDCMP
+#
+$CMP A2506WV-2P
+D Connector: wire-board; socket; male; A2506; 2.5mm; PIN: 2; THT; 250V
+K
+F https://www.tme.eu/Document/6152294b6336370601e802961503de43/A2506WV-XP.pdf
+$ENDCMP
+#
+$CMP 4300.0103
+D AC Power Entry Modules APPLIANCE INLET C8 PCB TERMINAL SNAP N
+K
+F https://www.digikey.ph/en/products/detail/schurter-inc/4300-0103/8299834
+$ENDCMP
+#
+$CMP MB10FTR
+D MB05F THRU MB10F SINGLE PHASE 0.8AMP SURFACE MOUNT GLASS PASSIVATED BRIDGE RECTIFIER
+K
+F http://www.smc-diodes.com/propdf/MB05F-MB10F%20N1456%20REV.A.pdf
+$ENDCMP
+#
+$CMP BV302S12018
+D short-circuit-proof transformers suitable for direct PCB mounting comply with Ta 70/B input voltage: 230V (50/60Hz) output: 1,8VA core: EI 30
+K
+F https://www.zettlermagnetics.eu/wp-content/uploads/2022/07/BV30XXXX018.pdf
+$ENDCMP
+#
+$CMP DS1014-20SF1B-B
+D Direct Insert 2x10P 10 2mm 2 Plugin,P=2mm IDC Connectors
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/CNFY/CNFY-S-A0011519884/CNFY-S-A0011519923-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP ABS10A-13
+D Bridge Rectifiers Bridge Rectifier
+K
+F https://componentsearchengine.com/Datasheets/1/ABS10A-13.pdf
+$ENDCMP
+#
+$CMP B72220S0271K101
+D SIOV Metal Oxide Varistor, 275Vrms, 1W Epcos B72220 Series Metal Oxide Varistor 630pF 100A, Clamping 710V, Varistor 430V
+K
+F https://product.tdk.com/system/files/dam/doc/product/protection/voltage/lead-disk-varistor/data_sheet/70/db/var/siov_leaded_standard.pdf
+$ENDCMP
+#
+$CMP STM32G030K6T6
+D STMICROELECTRONICS - STM32G030K6T6 - ARM MCU, STM32 Family STM32G0 Series Microcontrollers, ARM Cortex-M0+, 32bit, 64 MHz, 32 KB, 8 KB
+K
+F https://www.st.com/resource/en/datasheet/stm32g030c6.pdf
+$ENDCMP
+#
+$CMP DG300-5.0-04P-11-00A_H__COLOR_GREY
+D PCB terminal block; angled 90; 5mm; ways: 4; on PCBs; 2.5mm2; 24A
+K
+F https://www.degson.com/content/details_552_879441.html?lang=en
+$ENDCMP
+#
+$CMP USB4175-GF-0230-C
+D USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Through Hole
+K
+F https://gct.co/Files/Drawings/USB4175.pdf?v=f438f642-fd83-4aaa-9c7a-56b3455f7c1d
+$ENDCMP
+#
+$CMP MJ3215-88-1-2-N
+D Modular Connectors / Ethernet Connectors RJ45 8P8C Mod Jack, RA, TH, 16.00mm, WS, NY, 6u", Tray
+K
+F https://gct.co/files/drawings/mj3215-88.pdf?v=8de859d5-eba4-4168-b728-e594fe7a81ef
+$ENDCMP
+#
+$CMP USB4110-GF-A
+D CONN USB 2.0 TYPE-C R/A SMT
+K
+F https://gct.co/files/drawings/usb4110.pdf
+$ENDCMP
+#
+$CMP B340A-13-F
+D Schottky Diode 3A 40V 0.5Vf SMA Diodes Inc B340A-13-F, SMT Schottky Diode, 40V 3A, 2-Pin DO-214AC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/73551.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,6 +1,6 @@
 **Jest to płytka (10 × 10 cm) z procesorem Cortex M0+, zaprojektowana do testów urządzeń komunikujących się przez różne interfejsy.**
 
-##Główne cechy:
+## Główne cechy:
 
 **Procesor:** ARM Cortex M0+
 **Interfejsy komunikacyjne:**

@@ -18,9 +18,9 @@
 
 **Symulacje:** Przetwornica została zasymulowana w LTspice.
 
-/projekt
-  ├─ ltspice/         # Symulacje przetwornicy w LTspice
-  ├─ Lib_CAN/      	  # Biblioteka z modelami dla Kicad
-  ├─ BOM/             # Lista użytych footprintów
-  ├─ README.md        # Ten plik
-  └─ CAN_t_b.jpg      # Obraz z widoku 3D
+/projekt  
+  ├─ ltspice/         # Symulacje przetwornicy w LTspice  
+  ├─ Lib_CAN/      	  # Biblioteka z modelami dla Kicad  
+  ├─ BOM/             # Lista użytych footprintów  
+  ├─ README.md        # Ten plik  
+  └─ CAN_t_b.jpg      # Obraz z widoku 3D  
